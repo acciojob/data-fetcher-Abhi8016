@@ -39,7 +39,7 @@ const App = () => {
 
  return (
    <div>
-     <h1>Data Fetched from API</h1>
+     <div>Data Fetched from API</div>
      <pre>{JSON.stringify(data, null, 2)}</pre>
    </div>
  );
