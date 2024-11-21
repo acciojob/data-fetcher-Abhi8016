@@ -33,7 +33,7 @@ const App = () => {
 
 
  if (!data) {
-   return <h3>No data found</h3>;
+   return <h1>No data found</h1>;
  }
 
 
